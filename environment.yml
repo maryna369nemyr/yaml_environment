@@ -74,4 +74,4 @@ dependencies:
     - setuptools==41.4.0
     - spacy-iwnlp==0.0.2
     - vadersentiment==3.2.1
-prefix: /home/user/anaconda3/envs/myenv_yml
+prefix: /home/user/miniconda3/envs/myenv_yml
